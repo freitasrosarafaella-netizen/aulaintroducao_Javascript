@@ -1,3 +1,5 @@
+nao termineii
+
 const cofre1 = document.getElementById("cofre1");
 const cofre2 = document.getElementById("cofre2");
 const cofre3 = document.getElementById("cofre3");
