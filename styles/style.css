@@ -1,0 +1,49 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: #8dafb3; /* Tema de madeira de baú antigo */
+    color: rgb(10, 10, 10);
+    padding: 30px;
+}
+
+.arena {
+    position: relative;
+    height: 300px;
+    border: 2px dashed rgb(168, 135, 211); /* Linha dourada */
+    border-radius: 15px;
+    background: #b7cce3;
+}
+
+button {
+    position: absolute;
+    padding: 15px 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 18px;
+    cursor: pointer;
+}
+#cofre1 {
+    top: 45%;
+    left: 15%;
+    background: #668fa3;
+}
+
+#cofre2 {
+    top: 45%;
+    left: 45%;
+    background: #668fa3;
+}
+
+#cofre3 {
+    top: 45%;
+    left: 75%;
+    background: #668fa3
+}
+
+#jogar-novamente {
+    position: static;
+    margin: 10px;
+    background: #615797;
+    color: black;
+}
+
